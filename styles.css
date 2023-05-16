@@ -263,8 +263,8 @@ h2 {
     margin: 0 auto;
   }
 
-.my-competences  {
-  display: block;
+.my-competences li  {
+  display: none;
   margin: auto;
 }
 
@@ -287,7 +287,6 @@ h2 {
   .contact-links {
     padding: 0px 60px;
   }
-}
 
 .contact-links {
   font-size: 0.3rem;
